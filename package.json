@@ -1,0 +1,21 @@
+{
+  "name": "ts-morph-dojo",
+  "version": "1.0.0",
+  "description": "Learn ts-morph",
+  "main": "index.js",
+  "author": "budi adiono",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index"
+  },
+  "dependencies": {
+    "ts-morph": "^2.3.0",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.2"
+  },
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^4.0.0"
+  }
+}
