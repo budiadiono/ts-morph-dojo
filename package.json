@@ -9,7 +9,7 @@
     "start": "ts-node src/index"
   },
   "dependencies": {
-    "ts-morph": "^2.3.0",
+    "ts-morph": "^3.0.0",
     "ts-node": "^8.3.0",
     "typescript": "^3.5.2"
   },
